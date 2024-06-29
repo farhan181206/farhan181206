@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Farhan</h1>
 <h3 align="center">Im a Web Developer From Indonesia</h3>
-<img align="right" alt="me" width="400" src="[[https://media.licdn.com/dms/image/D5603AQHpkiQS99BLMg/profile-displayphoto-shrink_800_800/0/1707227494301?e=1724889600&v=beta&t=r79pVvMWojSvSY0DCWXZc6dfey8WtBG4RBPyv5Zhsjs](https://s3.ezgif.com/tmp/ezgif-3-94bdc2f4a3.gif)](https://user-images.githubusercontent.com/14011726/94132137-7d4fc100-fe7c-11ea-8512-69f90cb65e48.gif)" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan181206&label=Profile%20views&color=0e75b6&style=flat" alt="farhan181206" /> </p>
